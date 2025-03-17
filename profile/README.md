@@ -5,7 +5,7 @@
 The opensource version is fully functional and all security, feature and UX changes are made upstream before being incorporated into the commercial version.
 For the security or privacy concious this offers users full control over the ZARPLY-CE source code, and gives them the ability to build and deploy their own instance of the mobile app.
 
-Instructions are provided for building your own ZARPLY-CE Android APK in the [ZARPLY-CE repository]()
+Instructions are provided for building your own ZARPLY-CE Android APK in the [ZARPLY-CE repository](https://github.com/ZARPLY/zarply-ce)
 
 The downstream commercial version of **ZARPLY** may be found in the various mobile application stores.
 **ZARPLY** has all the feature of the Community Edition but also contains the following commercial features:
